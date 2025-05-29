@@ -1,10 +1,10 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "NexuxNova Launcher"
+title = "NexuxNova Launcher - Beta"
 
 [ejs.landing]
-mediaGitHubURL = "#"
+mediaGitHubURL = "https://nexuxnova.it"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
